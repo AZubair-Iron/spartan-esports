@@ -1,2 +1,8 @@
-# spartan-esports
-Spartan Esports - Support your favorite Spartan Teams!
+## Title
+> Spartan Esports
+
+## Team Members
+>Arsal Zubair, Brandon Looney, Yixi Xie
+
+## Description 
+> Spartan 
